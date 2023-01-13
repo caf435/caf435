@@ -3,9 +3,6 @@
 [![codewars](https://www.codewars.com/users/wancraft/badges/small)](https://www.codewars.com/users/wancraft) 
 
 - 🌱 I’m currently learning **HTML, CS, JS, GitHub**
-
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
-
 - 🌍 I speak Russian (native), English (A1)
 
 ### Connect with me:
