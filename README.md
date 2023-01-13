@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars]([https://www.codewars.com/users/daniilshat/badges/small])](https://www.codewars.com/users/wancraft)) 
+[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat) 
 
 <!--
 **caf435/caf435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
