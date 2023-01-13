@@ -1,5 +1,6 @@
 <h1 align="center">Hello there, I'm <a href="https://caf435.github.io/" target="_blank">Caf</a> </h1>
 <h3 align="center">Cycling activist, eco-activist, journalist and aspiring web programmer
+
 [![codewars](https://www.codewars.com/users/wancraft/badges/small)](https://www.codewars.com/users/wancraft) 
 
 - 🌱 I’m currently learning **HTML, CS, JS, GitHub**
