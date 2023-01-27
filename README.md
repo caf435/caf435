@@ -3,7 +3,7 @@
 
   [![codewars](https://www.codewars.com/users/wancraft/badges/small)](https://www.codewars.com/users/wancraft) 
 
-- На данный момент изучаю **HTML, CS, JS, GitHub, Jest**.
+- На данный момент изучаю **HTML, CSS, JS, Jest**.
   
 ### Connect with me:
 <p align="left">
