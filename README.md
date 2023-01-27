@@ -1,6 +1,7 @@
 <h1 align="center">Всем привет, я Ван Крафт, или просто Каф </h1>
 <h3 align="center">На сегодняшний день вело и экоактивист, журналист и начинающий веб-программист.
-[![codewars](https://www.codewars.com/users/wancraft/badges/small)](https://www.codewars.com/users/wancraft) 
+
+  [![codewars](https://www.codewars.com/users/wancraft/badges/small)](https://www.codewars.com/users/wancraft) 
 
 - На данный момент изучаю **HTML, CS, JS, GitHub, Jest**.
   
